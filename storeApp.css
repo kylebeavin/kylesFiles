@@ -42,14 +42,6 @@ h2{
     background-repeat: no-repeat;
     background-size: 100% 100%;     
 }
-h3{
-    border: solid 10px black;
-    position: relative;
-    width: 30%;
-    height: 450px;
-    bottom: 849px;
-    left: 1295px;
-}
 video{
     position: relative;
     bottom: 31px;
