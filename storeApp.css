@@ -1,0 +1,60 @@
+h1 {
+    margin: 0px 0px 0px 0px;
+    padding-bottom: 50px;
+    background-image: url("sailboat-823176_1280.jpg");
+    text-align: center;
+    font-size: 120px;
+    font-style: oblique;
+    border: solid 10px black;
+    color: whitesmoke;
+    position: relative;
+}
+#wide {
+    border: solid 10px black;
+    font-size: 60px;
+    position: relative;
+    text-align: center;
+    bottom: 60px;
+    color: whitesmoke;
+    background-image: url("sailboat-823176_1280.jpg");    
+    background-position: 0% 26%;
+}
+span.stretch {
+    font-size: 60px;
+    color: whitesmoke;
+    position: relative;
+    bottom: 200px;
+    left: 425px;
+    display:inline-block;
+    -webkit-transform:scale(3,1); /* Safari and Chrome */
+    -moz-transform:scale(3,1); /* Firefox */
+    -ms-transform:scale(3,1); /* IE 9 */
+    -o-transform:scale(3,1); /* Opera */
+    transform:scale(3,1); /* W3c */
+} 
+h2{
+    border: solid 10px black;
+    position: relative;
+    width: 25%;
+    height: 600px;
+    bottom: 209px;
+    background-image: url("prestige_worldwide.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;     
+}
+h3{
+    border: solid 10px black;
+    position: relative;
+    width: 30%;
+    height: 450px;
+    bottom: 849px;
+    left: 1295px;
+}
+video{
+    position: relative;
+    bottom: 31px;
+    left: 10px;
+}
+/* #prestige{
+    border: black solid 10px;
+} */
